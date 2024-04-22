@@ -1,0 +1,12 @@
+
+_
+java:S1854"=Remove this useless assignment to local variable "filePath2".(Ñù·‘ùÿÿÿÿ8âÓÅ»ğ1
+^
+java:S1854"<Remove this useless assignment to local variable "filePath".(›”ÊÁüÿÿÿÿ8Å¿»ğ1
+W	java:S125"<This block of commented-out lines of code should be removed.(ÁÓ—8½ÜÄ»ğ1
+O
+java:S1481"-Remove this unused "filePath" local variable.(›”ÊÁüÿÿÿÿ8È¿»ğ1
+P
+java:S1481".Remove this unused "filePath2" local variable.(Ñù·‘ùÿÿÿÿ8æÓÅ»ğ1
+L	java:S106&"+Replace this use of System.out by a logger.(í¦£ÿÿÿÿÿ8åşºğ1
+G	java:S1065"+Replace this use of System.out by a logger.(©¡ŒÑ8îˆ‚»ğ1
